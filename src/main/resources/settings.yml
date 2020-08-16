@@ -1,0 +1,6 @@
+database:
+  enable: false
+  url: jdbc:mysql://localhost:3306
+  username: root
+  password: password
+  db: maxnicky

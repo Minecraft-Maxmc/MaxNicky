@@ -1,0 +1,9 @@
+name: MaxNicky
+version: @version@
+main: cn.maxmc.maxnicky.MaxNicky
+authors: [TONY_All]
+description: Simple Nicky Plugin for maxmc
+commands:
+  nick:
+    description: /nick for help
+    usage: /nick
